@@ -1,7 +1,7 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Kelvin</h1>
 <h3 align="center">Big picture developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinokuroemi&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinokuroemi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvinokuroemi" alt="kelvinokuroemi" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full stack Javascript**
 
-- 💬 Ask me about **HTML, CSS, BASIC JS and learning to code**
+- 💬 Ask me about **HTML, CSS, BASIC JS and starting out as a developer**
 
 - 📫 How to reach me **okuroemidouebikelvin@gmail.com**
 
