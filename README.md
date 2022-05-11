@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full stack Javascript**
 
-- 💬 Ask me about **HTML, CSS, Vanilla JS and starting out as a developer**
+- 💬 Ask me about **HTML, CSS, Vanilla JS and learning to code**
 
 - 📫 How to reach me **okuroemidouebikelvin@gmail.com**
 
