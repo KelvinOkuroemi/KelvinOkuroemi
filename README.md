@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvinokuroemi" alt="kelvinokuroemi" /></a> </p>
 
-- 🔭 I’m currently working on **creating my ideas.**
+- 🔭 I’m currently working on **Technical articles**
 
 - 🌱 I’m currently learning **modern web dev with the odin's project.**
 
