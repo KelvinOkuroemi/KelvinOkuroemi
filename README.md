@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **creating projects.**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/kelvinokuroemi](https://linktr.ee/kelvinokuroemi)
+- 👨‍💻 All my work is available at [https://kelvinokuroemi.disha.page/](https://kelvinokuroemi.disha.page/)
 
 - 📝 I regularly write articles on [https://xylophone.hashnode.dev/](https://xylophone.hashnode.dev/)
 
