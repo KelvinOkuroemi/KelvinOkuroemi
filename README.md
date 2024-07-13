@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvinokuroemi" alt="kelvinokuroemi" /></a> </p>
 
-- 🔭 I’m currently working on **Curating Technical Articles and LyricLink **
+- 🔭 I’m currently working on **Curating Technical Articles and SyncStream **
 
 - 🌱 I’m currently learning ** Backend Development With NodeJS**
 
