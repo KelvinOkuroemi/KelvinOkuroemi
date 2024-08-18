@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **backend and cloud mentorship**
 
-- 👨‍💻 All of my projects are available at [https://kelvinokuroemi.disha.page/](https://kelvinokuroemi.disha.page/)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/kelvinokuroemi](https://linktr.ee/kelvinokuroemi/)
 
 - 📝 I regularly write articles on [https://xylophone.hashnode.dev/](https://xylophone.hashnode.dev/)
 
